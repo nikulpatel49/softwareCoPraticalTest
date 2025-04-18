@@ -113,7 +113,7 @@ Swagger UI available at:
 ```
 http://localhost:5000/api-docs
 ```
-git init
+
 ## 🔍 Linting
 
 ```bash
