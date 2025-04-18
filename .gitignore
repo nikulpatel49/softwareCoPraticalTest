@@ -1,0 +1,9 @@
+/node_modules
+.idea
+.vscode
+.DS_Store
+.env
+.eslintcache
+logs
+/package-lock.json
+.history

@@ -1,0 +1,6 @@
+{
+	"watch": [".", ".env"],
+	"ext": "js,json",
+	"ignore": ["storage", "node_modules", "./*.json"],
+	"exec": "node server.js --trace-warnings"
+}
